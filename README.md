@@ -1,6 +1,8 @@
 # lucky
 A 40-49 key 13 column (mostly) ortho keyboard with fun and easy kitting
 
+DISCLAIMER: This is a work in progress and should be considered as a prototype.  I will assume no responsibility for any cost, damage, or sads resulting from trying to make one of my dumb projects.  This project has no implicit support, neither moral nor technical.
+
 Please note there is a defect in prototype 1 resulting is a missing column wire; prototype 2 has not been completed
 
 You will need some hardware for either draft 1 case.
