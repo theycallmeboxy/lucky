@@ -34,7 +34,7 @@ PCB:
 Firmware:
 - [VIAL Firmware .bin file](https://github.com/theycallmeboxy/lucky/blob/main/firmware/vial/binary/boxy_lucky_vial.bin)
   
-## Build notes:
+## Build Notes:
 
 I have made with FDM and CNC aluminum to good effect.
 
