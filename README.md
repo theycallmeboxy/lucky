@@ -1,6 +1,7 @@
 # Lucky
 *A 40-49 key 13 column (mostly) ortho keyboard with fun and easy kitting*
-![keyborb](https://github.com/theycallmeboxy/lucky/blob/main/img/lucky_build-options.jpg)
+
+<img src="https://github.com/theycallmeboxy/lucky/blob/main/img/lucky_build-options.jpg" alt="keyborb" width="600"/>
 
 > [!CAUTION]
 > I will assume no responsibility for any cost, damage, or sads resulting from trying to make one of my dumb projects. This project has no implicit support, neither moral nor technical.
