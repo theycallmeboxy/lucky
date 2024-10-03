@@ -11,28 +11,28 @@
 
 ## Production Files:
 3DP Case:
-- [Bottom case .stl file](https://github.com/theycallmeboxy/lucky/blob/main/models/draft%201/3dp/Bottom%20Case.stl)
-- [Top case .stl file](https://github.com/theycallmeboxy/lucky/blob/main/models/draft%201/3dp/Top%20Case.stl)
+- [Bottom case .stl file](https://github.com/theycallmeboxy/lucky/raw/refs/heads/main/models/draft%201/3dp/Bottom%20Case.stl)
+- [Top case .stl file](https://github.com/theycallmeboxy/lucky/raw/refs/heads/main/models/draft%201/3dp/Top%20Case.stl)
 
 CNC Case:
-- [Bottom case .step file](https://github.com/theycallmeboxy/lucky/blob/main/models/draft%201/cnc/Bottom%20Case.step)
-- [Top case .step file](https://github.com/theycallmeboxy/lucky/blob/main/models/draft%201/cnc/Top%20Case.step)
-- [Top case thread drawing .pdf file](https://github.com/theycallmeboxy/lucky/blob/main/models/draft%201/cnc/Top%20Case%20Drawing.pdf)
+- [Bottom case .step file](https://github.com/theycallmeboxy/lucky/raw/refs/heads/main/models/draft%201/cnc/Bottom%20Case.step)
+- [Top case .step file](https://github.com/theycallmeboxy/lucky/raw/refs/heads/models/draft%201/cnc/Top%20Case.step)
+- [Top case thread drawing .pdf file](https://github.com/theycallmeboxy/lucky/raw/refs/heads/main/models/draft%201/cnc/Top%20Case%20Drawing.pdf)
 
 Plate:
-- [Plate .dxf file](https://github.com/theycallmeboxy/lucky/blob/main/models/draft%201/plate/1.6mm%20plate.dxf)
+- [Plate .dxf file](https://github.com/theycallmeboxy/lucky/raw/refs/heads/main/models/draft%201/plate/1.6mm%20plate.dxf)
 
 PCB:
 > [!WARNING]
 > Please note there is a defect in PCB version 1 resulting is a missing
 > column wire requiring a bodge; version 1.1 fixes this but has not yet been produced.  If by an act of God you have a v1 PCB here are the [bodge instructions](https://github.com/theycallmeboxy/lucky/blob/main/img/bodge-instructions.png).
 
-- [PCB gerbers .zip file](https://github.com/theycallmeboxy/lucky/blob/main/pcb/lucky%20v1.1/production/lucky1.1.zip)
-- [BOM .csv file](https://github.com/theycallmeboxy/lucky/blob/main/pcb/lucky%20v1.1/production/bom.csv)
-- [Positions .csv file](https://github.com/theycallmeboxy/lucky/blob/main/pcb/lucky%20v1.1/production/positions.csv)
+- [PCB gerbers .zip file](https://github.com/theycallmeboxy/lucky/raw/refs/heads/main/pcb/lucky%20v1.1/production/lucky1.1.zip)
+- [BOM .csv file](https://github.com/theycallmeboxy/lucky/raw/refs/heads/main/pcb/lucky%20v1.1/production/bom.csv)
+- [Positions .csv file](https://github.com/theycallmeboxy/lucky/raw/refs/heads/main/pcb/lucky%20v1.1/production/positions.csv)
 
 Firmware:
-- [VIAL Firmware .bin file](https://github.com/theycallmeboxy/lucky/blob/main/firmware/vial/binary/boxy_lucky_vial.bin)
+- [VIAL Firmware .bin file](https://github.com/theycallmeboxy/lucky/raw/refs/heads/main/firmware/vial/binary/boxy_lucky_vial.bin)
   
 ## Build Notes:
 
