@@ -39,18 +39,19 @@ Firmware:
 I have made with FDM and CNC aluminum to good effect.
 
 You will need some hardware for either draft 1 case...
-> **For both versions:**
-> 
->  - 10 m2x6mm flat screws [such as these     ](https://www.amazon.com/gp/product/B000NHYRAY/)
->    
->   - 16 20mmx3mm gaskets, either 2mm thick foam   [like    these](https://www.aliexpress.us/item/3256805527606478.html)  or
->    1.5mm thick silicone   [like these](https://www.aliexpress.us/item/3256802713311572.html)
->    
->   - 4 SKUF feet like these  [like    these](https://keeb.io/products/skuf-silicone-rubber-keyboard-feet)
-> 
-> **For the 3dp version:**
-> 
->  - 10 m2x3mmx3.5mm heat set inserts   [such as    these](https://www.amazon.com/gp/product/B0C1ND29M7/)
+
+**For both versions:**
+ 
+  - 10 m2x6mm flat screws [such as these     ](https://www.amazon.com/gp/product/B000NHYRAY/)
+    
+   - 16 20mmx3mm gaskets, either 2mm thick foam   [like    these](https://www.aliexpress.us/item/3256805527606478.html)  or
+    1.5mm thick silicone   [like these](https://www.aliexpress.us/item/3256802713311572.html)
+    
+   - 4 SKUF feet like these  [like    these](https://keeb.io/products/skuf-silicone-rubber-keyboard-feet)
+ 
+ **For the 3dp version:**
+ 
+  - 10 m2x3mmx3.5mm heat set inserts   [such as    these](https://www.amazon.com/gp/product/B0C1ND29M7/)
 
  1. Install heatset inserts, if applicable.   
  2. Apply feet to the cutouts.
