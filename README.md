@@ -58,5 +58,6 @@ You will need some hardware for either draft 1 case...
  2. Apply feet to the cutouts.
  3. Install stabs if you're into that. 
  4. Install switches into the plate and PCB.
- 5. Solder it up Gaskets on both sides of the plate tabs.
- 6. Screw it together from the bottom.
+ 5. Solder it up.
+ 6. Gaskets on both sides of the plate tabs.
+ 7. Screw it together from the bottom.
