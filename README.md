@@ -20,7 +20,7 @@
 
 CNC Case:
 - [Bottom case .step file](https://github.com/theycallmeboxy/lucky/blob/main/models/draft%201/cnc/Bottom%20Case.step)
-- [Top case .step file](https://github.com/theycallmeboxy/lucky/blob/models/draft%201/cnc/Top%20Case.step)
+- [Top case .step file](https://github.com/theycallmeboxy/lucky/blob/main/models/draft%201/cnc/Top%20Case.step)
 - [Top case thread drawing .pdf file](https://github.com/theycallmeboxy/lucky/blob/main/models/draft%201/cnc/Top%20Case%20Drawing.pdf)
 
 Plate:
